@@ -1,1 +1,1 @@
-# Kanban
+# This is a Kanban project!
